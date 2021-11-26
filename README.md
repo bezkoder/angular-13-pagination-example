@@ -1,27 +1,68 @@
-# Angular13Pagination
+# Angular 13 Pagination example (server side) with ngx-pagination
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
+![angular-13-pagination-example](angular-13-pagination-example.png)
 
-## Development server
+For instruction, please visit:
+> [Angular 13 Pagination example with ngx-pagination](https://www.bezkoder.com/angular-13-pagination-ngx//)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Server side Pagination for this app:
+> [Node Express Pagination with MySQL](https://www.bezkoder.com/node-js-sequelize-pagination-mysql/)
 
-## Code scaffolding
+> [Node Express Pagination with PostgreSQL](https://www.bezkoder.com/node-js-pagination-postgresql/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> [Node Express Pagination with MongoDB](https://www.bezkoder.com/node-js-mongodb-pagination/)
 
-## Build
+> [Spring Boot Pagination and Filter example](https://www.bezkoder.com/spring-boot-pagination-filter-jpa-pageable/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+> [Spring Boot MongoDB Pagination example with Spring Data](https://www.bezkoder.com/spring-boot-mongodb-pagination/)
 
-## Running unit tests
+More Practice:
+> [Angular CRUD Application example with Web API](https://www.bezkoder.com/angular-13-crud-example/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> [Angular File upload example with Progress bar](https://www.bezkoder.com/angular-13-file-upload/)
 
-## Running end-to-end tests
+> [Angular Form Validation example (Reactive Forms)](https://www.bezkoder.com/angular-13-form-validation/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+> [Angular JWT Authentication & Authorization with Rest API](https://www.bezkoder.com/angular-12-jwt-auth/)
 
-## Further help
+Fullstack with Node:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+> [Angular + Node Express + MySQL example](https://www.bezkoder.com/angular-13-node-js-express-mysql/)
+
+> [Angular + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-13-node-js-express-postgresql/)
+
+> [Angular + Node Express + MongoDB example](https://www.bezkoder.com/mean-stack-crud-example-angular-13/)
+
+> [Angular + Node Express: File upload example](https://www.bezkoder.com/angular-13-node-express-file-upload/)
+
+Fullstack with Spring Boot:
+
+> [Angular + Spring Boot + H2 Embedded Database example](https://www.bezkoder.com/spring-boot-angular-13-crud/)
+
+> [Angular + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-13-mysql/)
+
+> [Angular + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-13-postgresql/)
+
+> [Angular + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-13-spring-boot-mongodb/)
+
+> [Angular + Spring Boot: File upload example](https://www.bezkoder.com/angular-13-spring-boot-file-upload/)
+
+Fullstack with Django:
+> [Angular + Django example](https://www.bezkoder.com/django-angular-13-crud/)
+
+Security:
+> [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-12-spring-boot-jwt-auth/)
+
+> [Angular + Node Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-12-jwt-auth/)
+
+Serverless with Firebase:
+> [Angular Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://www.bezkoder.com/angular-13-firebase-crud/)
+
+> [Angular Firestore CRUD example with AngularFireStore](https://www.bezkoder.com/angular-13-firestore-crud-angularfirestore/)
+
+> [Angular Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-13-firebase-storage/)
+
+Integration (run back-end & front-end on same server/port)
+> [How to integrate Angular with Node Restful Services](https://www.bezkoder.com/integrate-angular-12-node-js/)
+
+> [How to Integrate Angular with Spring Boot Rest API](https://www.bezkoder.com/integrate-angular-12-spring-boot/)
